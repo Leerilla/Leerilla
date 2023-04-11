@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
+
+### 강사 : 이상우 👋
+
+<br/>
+
+<p>
+안녕하세요 여러분 이상우 입니다. <br/>
+잘부탁 드릴게요. 우리 <Strong>화이팅</Strong> 해봅시다.
+<p/>
 
 <!--
 **Leerilla/Leerilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
